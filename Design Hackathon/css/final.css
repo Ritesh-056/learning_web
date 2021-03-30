@@ -1,0 +1,169 @@
+
+*
+{
+   padding: 0px;
+   margin:0px;
+}
+
+ .logo{
+
+  float:left;
+
+}
+
+.logo img{
+
+   height: 100px;
+   width:230px;
+}
+nav ul{
+  float: right;
+}
+nav ul li {
+     float:left;
+     list-style: none;
+     padding-right: 50px;
+     margin-right: 50px;
+     padding-top: 20px;
+   }
+
+nav ul li a{
+text-decoration: none;
+font-size: 25px;
+
+}
+
+
+nav ul li a:hover{
+color: white;
+text-decoration: none;
+}
+
+header
+{
+  background:absolute;
+  height: 90px;
+  width:100%;
+  background-color:#2a2730;
+  border-bottom:4px solid grey;
+  position:fixed;
+  z-index: 99;
+}
+
+
+.slider{
+  height: 800px;
+  width:100%;}
+.pic{
+  height: 800px;
+  width:100%;
+}
+.describe{
+  margin-top: 200px;
+}
+.double{
+
+  margin-top: -200px;
+   height: 700px;
+   width:100%;
+
+}
+.pm  p{
+  padding-left: 120px;
+}
+
+
+
+.image img{
+    height: 200px;
+    width:200px;
+    border-radius:100px;
+  float: right;
+}
+
+
+
+ .photopm{
+     background: url("img/doc.jpg");
+  float: right;
+  }
+
+.image h1{
+   padding-top: 5px;
+   font-size:5px;
+   text-align: center;
+}
+.icon i{
+  padding-left: 35px;
+  font-size: 30px;
+}
+
+
+.footer{
+  padding-top:20px;
+  height: 300px;
+  width:100%;
+  background-color: black;
+  }
+
+
+.second{
+  font-size: 15px;
+  color:white;
+  padding-top:100px;
+  padding-left: 250px;
+}
+
+.first{
+  padding-top: 40px;
+  text-align: center;
+
+  color:white;
+}
+
+
+.first ul{
+   list-style: none;
+
+   margin-top: 10px;
+}
+.first ul li{
+     padding: 3px;
+}
+
+.third{
+    padding-left:30px;
+    margin-top: 50px;
+    color:white;
+}
+.forms{
+  height: 700px;
+  width: auto;
+}
+.register{
+  margin-top: 20px;
+  height: 600px;
+  border: 1px solid black;
+}
+
+.photos{
+  height: 800px;
+}
+
+.description pre{
+  font-size: 25px;
+  text-align: center;
+}
+.aboutusus{
+  margin-top: 100px;
+}
+#thankyou{
+  height: 100px;
+  width:100%;
+
+
+}
+#thankyou:hover {
+border-left: 2px solid brown;
+
+}

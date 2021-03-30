@@ -1,0 +1,161 @@
+body{
+
+    background-image: url('../a.png');
+    height: 100vh; 
+}
+
+
+#logo_img{
+  height: 150px;
+  width:15%;
+  margin-right: 10%;
+}
+
+.flex-container{
+    margin-left:25%;
+    margin-right:25%;
+    margin-top: 5%;
+    background-color:  #fdfefe;
+    height:75vh;
+    width:50%;
+    border-radius: 16px;
+    text-align: center;
+    
+
+}
+
+.flex-container:hover{
+    box-shadow:2px 2px 10px 10px  #2b5876;
+    
+}
+
+.one_email{
+   padding-top: 8%;
+   margin-right: 36%;
+   color: 	#303030;
+   font-size: 17px;  
+   font-weight: 500;
+   font-family: Arial, Helvetica, sans-serif;
+}
+
+.one_pass{
+
+    padding-top: 2%;
+    margin-right: 42% ;
+    color: 	#303030;
+    font-size: 17px;  
+    font-weight: 500;
+    font-family: Arial, Helvetica, sans-serif;
+ }
+ 
+
+.flex-container .email_class{
+  width: 50% ;
+  height: 50px;
+  text-align: left;
+  padding-left: 8px;
+  border-radius: 8px;
+  border-style: groove;
+  color: 	#303030;
+  
+}
+
+.flex-container .email_class:hover{
+    border-width: 0.8px;
+    border-color: #0080ff;
+   
+}
+
+.flex-container .pass_class{
+
+    width: 50%;
+    height: 50px;
+    border-radius: 8px;
+    text-align: left;
+    color: 	#303030;
+    border-style: groove;
+    padding-left: 8px;
+   
+  }
+  .flex-container .pass_class:hover{
+    border-width: 0.8px;
+    border-color: #0080ff;
+}
+
+  .flex-container .button_click{
+    margin-top: 3%;
+    width: 40%;
+    height: 60px;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 500;
+    letter-spacing: 1px;
+    border-radius: 32px;
+    color:whitesmoke;
+    text-align: center;
+    background-image: linear-gradient(to right, #2b5876 0%, #4e4376);
+    overflow: hidden;
+  }
+
+
+ 
+
+  #forget{
+  padding-top: 5px;
+   color:#2b5876;
+   font-size: 15px;
+   text-decoration: underline;
+   text-underline-position: below;
+   margin-left: 30%;
+  }
+  
+  .create{
+    margin-top: 3%;
+    width: 20%;
+    height: 50px;
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 500;
+    border-radius: 32px;
+    color:whitesmoke;
+    text-align: center;
+    opacity: 0.8;
+    background-color:#154f66;
+
+  }
+
+  
+ .nav{
+   height: 100px;
+   width: 50%;
+   margin-left: 25%;
+   margin-right: 25%;
+ } 
+
+ #logo_img{
+     margin-left:30px;
+     height:150px;
+     width:100px;
+     float: left;
+
+ }
+  
+ .extra{
+ 
+     font-family: Arial, Helvetica, sans-serif;
+     font-size: 25px;
+     font-weight: 600;
+     text-align: center;
+     float: right;
+     padding-right:30%;
+     padding-top: 35px;
+     letter-spacing: 0.5px; 
+     color:#030d44;
+
+
+    }
+
+
+
+  
+ 

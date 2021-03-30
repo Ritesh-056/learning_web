@@ -1,0 +1,78 @@
+
+.s1{
+  margin: 4% auto;
+  height: 850px;
+  background-color:  	#F5F5F5 ;
+  width: 85%;
+}
+
+.item-photo{
+  margin: 10% auto;
+  height: 500px;
+  width: 500px;
+  float: left;
+  border-radius: 20%;
+ margin-left: 70px;
+}
+
+.photo-part p{
+  color: #000000;
+  font-size: 16px;
+  margin-top:30px;
+}
+
+.photo-part .map{
+height: 200px;
+width: 600px;
+margin-left: 100px;
+background-color: red;
+}
+
+.photo-part  h3{
+margin-left: 35%;
+font-size: 20px;
+color: blue;
+}
+
+
+.a{
+ font-size: 30px;
+ padding-top:4% ;
+ float: right;
+ color: black;
+ padding-right: 600px;
+}
+
+.ah{
+  padding-top:10px;
+  font-size: 14px;
+  float: right;
+  color: #0000FF;
+  padding-right:480px;
+}
+
+.resorucecom-line{
+  margin:2% auto;
+  background-color: crimson;
+  margin-right:33%;
+  height: 3px;
+  width: 10%;
+  float: right;
+
+}
+
+.photo-part{
+  margin: 5px auto;
+  background-color:none;
+  height: 250px;
+  width: 60%;
+  float: right;
+}
+
+.maintain-photo{
+  height:220px;
+  width:220px;
+  margin: 2px auto;
+  margin-left: 0px;
+  border-radius: 8px;
+}
